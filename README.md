@@ -1,11 +1,11 @@
 # testtest27
 
 Link test
-- [Issues relative1](issues)
-- [Issues with slash eg. /issues](/issues)
-- [Issues with dots eg. ../../issues](../../issues)
-- [Issues with repo name eg. /taylor/issues](/taylor/issues)
-- [gitignore](.gitignore)
-- [nothing 404](nothing.md)
-- [another README relative](another-readme.md)
-- [another README with slash](/another-readme.md)
+- :x: [Issues relative1](issues)
+- :x: [Issues with slash eg. /issues](/issues)
+- :heavy_check_mark: [Issues with dots eg. ../../issues](../../issues)
+- :X:[Issues with repo name eg. /taylor/issues](/taylor/issues)
+- :heavy_check_mark: [gitignore](.gitignore)
+- :heavy_check_mark: [nothing 404](nothing.md)
+- :heavy_check_mark:[another README relative](another-readme.md)
+- :heavy_check_mark:[another README with slash](/another-readme.md)
