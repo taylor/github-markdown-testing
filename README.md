@@ -1,6 +1,7 @@
 # github markdown testing
 
-Link test
+## Link test
+
 - :x: [Issues relative1](issues)
 - :x: [Issues with slash eg. /issues](/issues)
 - :heavy_check_mark: [Issues with dots eg. ../../issues](../../issues)
